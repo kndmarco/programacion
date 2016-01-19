@@ -1,0 +1,336 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 21px;
+    
+}
+
+
+#seccion1{
+    width: 1340px;
+    height: 635px;
+    
+}
+#trello{
+    margin: 30px;
+    margin-left: 530px;
+    width: 260px;
+    height: 95px;
+}
+#parte1{
+    margin-left: 280px;
+    text-align-last: center;
+    width: 740px;
+    height: 85px
+    
+}
+#parte11{
+    margin-left: 280px;
+    text-align-last: center;
+    width: 780px;
+    height: 135px
+}
+#boton1{
+    background-color: ForestGreen;
+    margin-left: 560px;
+      width: 216px;
+    height: 42px;
+    font-size: 18px;
+    color: white;
+    border: 1px solid green;
+    border-radius: 8px;
+}
+#sesion{
+    margin: 50px;
+    margin-left: 575px;
+      width: 216px;
+    height: 2px;
+}
+
+
+#seccion2{
+    background-color: DodgerBlue;
+    color: white;
+     width: 1340px;
+    height: 950px;
+}
+#parf1{
+    margin-left: 390px;
+    text-align-last: left;
+    width: 595px;
+    height: 85px
+    
+}
+#imagen{
+    margin-left: 100px;
+     width: 1160px;
+    height: 560px;
+}
+#parf2{
+      margin-left: 390px;
+    text-align-last: left;
+    width: 595px;
+    height: 85px
+    
+}
+
+#seccion3{
+     width: 1340px;
+    height: 950px;
+    
+}
+#parrafo1{
+    
+     margin-left: 390px;
+    text-align-last: center;
+    width: 638px;
+    height: 85px
+}
+#boton2{
+    background-color: transparent;
+    border-color: LightSeaGreen;
+    width: 381px;
+    height: 54px;
+    font-size: 18px;
+    color: LightSeaGreen;
+        
+}
+#imags{
+     margin: 45px;
+    margin-left: -140px;   
+}
+
+#seccion4{
+    width: 1340px;
+    height: 400px;
+    background-color: PowderBlue;
+    
+}
+#home{
+    float: right;
+    margin: 41px;
+    
+   
+}
+#parfS4{
+   
+     margin: 46px;
+     margin-left: 160px;
+    float: left;
+     width: 591px;
+    height: 154px;
+}
+#seccion{
+   
+     margin-left: 157px;
+    
+}
+#app{
+   
+    width: 145px;
+    height: 45px;
+}
+#boton3{
+     background-color: transparent;
+    border-color: CornflowerBlue ;
+    width: 281px;
+    height: 54px;
+    font-size: 18px;
+    color: LightSeaGreen;
+      border: 1px solid CornflowerBlue ;
+    border-radius: 8px;
+    
+}
+#seccion5{
+     width: 1340px;
+    height: 400px;
+    
+}
+#parfS5{
+     margin: 89px;
+     margin-left: 160px;
+    float: left;
+     width: 591px;
+    height: 154px;
+    
+}
+#pow{
+    
+    margin: 75px;
+    margin-right: 140px;
+    float: right;
+}
+
+#seccion6{
+    width: 1340px;
+    height: 430px;
+    background-color: DodgerBlue ; 
+}
+#parfS6{
+    float: left;
+    margin: 55px;
+    margin-left: 165px;
+    text-align: center;
+    color: white;
+}
+
+#fre{
+    margin-left: 150px;
+    height: 63px;
+    width: 87;
+}
+#the{
+    margin-left: 15px;
+    height: 69px;
+    width: 220px;
+}
+#tres{
+     margin-left: 15px;
+    height: 65px;
+    width: 90px;
+}
+#ver{
+    margin-left: 15px;
+    height: 65px;
+    width: 190px;
+}
+#adobe{
+    margin-left: 15px;
+    height: 65px;
+    width: 190px;
+}
+#tu{
+    
+    margin-left: 220px;
+    height: 65px;
+    width: 181px;
+}
+#google{
+     margin-left: 15px;
+    height: 65px;
+    width: 165px;
+}
+#pay{
+     margin-left: 15px;
+    height: 65px;
+    width: 165px;
+}
+#ki{
+    margin-left: 15px;
+    height: 65px;
+    width: 220px;
+}
+#seccion7{
+      width: 1340px;
+    height: 390px;
+    background-color: DarkSlateBlue;
+}
+#logo{
+    float: left;
+    margin: 45px;
+    margin-right: 15px;
+}
+#parfS7{
+    float: right;
+     margin: 90px;
+     margin-right: 150px;
+     width: 591px;
+    height: 180px;
+    color: white
+    
+}
+#boton{
+    
+     background-color: transparent;
+    border-color: white;
+    width: 390px;
+    height: 54px;
+    font-size: 18px;
+    color: white;
+    border: 1px solid white;
+    border-radius: 8px;
+}
+
+#seccion8{
+    width: 1340px;
+    height: 330px;
+}
+#parfS8{
+    margin: 75px;
+    margin-left: 380px;
+    text-align-last: center;
+    width: 580px;
+    height: 135px
+}
+#botons{
+     background-color: ForestGreen;
+    margin-left: 560px;
+      width: 216px;
+    height: 42px;
+    font-size: 18px;
+    color: white;
+     border: 1px solid green;
+    border-radius: 8px;
+    
+}
+#seccion9{
+    background-color: DodgerBlue;
+     width: 1340px;
+    height: 280px;
+    
+}
+#taco{
+     float: left;
+    margin: 25px;
+   margin-left: 300px;
+     width: 170px;
+    height: 200px;
+    
+}
+
+#parfS9{
+    float: left;
+    color: white;
+    margin: 85px;
+    text-align-last: left;
+    
+    
+}
+
+#seccion10{
+    margin: 75px;
+    margin-left: 0px;
+     width: 1340px;
+    height: 180px;
+}
+
+#uls{
+   text-align: center;
+    
+}
+
+#uls li{
+    display: inline-block;
+        padding-right: 15px;
+}
+#uls li a{
+    color: gray;
+    
+}
+#pe{
+    text-align: center;
+    color: grey;
+     
+}
+
+#pe a{
+    color: grey;
+}
+
+
+
+
+
+
+
+
+
